@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdanielscottofficial&label=Profile%20views&color=0e75b6&style=flat" alt="mdanielscottofficial" /> </p>
 
-- 🔭 I’m currently working on **Multiple Review Website**
+- 🔭 I’m currently working on **Personal Portfolio**
 
 - 🌱 I’m currently learning **React, TailwindCSS**
 
@@ -23,7 +23,7 @@
 <a href="https://codesandbox.com/mdanielscottofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mdanielscottofficial" height="30" width="40" /></a>
 <a href="https://fb.com/mdanielscottofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdanielscottofficial" height="30" width="40" /></a>
 <a href="https://instagram.com/mrdanielscottofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrdanielscottofficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mdanielscottofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdanielscottofficial" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCm0prl6osaUSn2ooB33W3dA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdanielscottofficial" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/mdanielscottofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mdanielscottofficial" height="30" width="40" /></a>
 </p>
 
