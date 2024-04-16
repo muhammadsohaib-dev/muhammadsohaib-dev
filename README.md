@@ -1,6 +1,6 @@
 ![logo](https://github.com/mdanielscottofficial/mdanielscottofficial/blob/main/Daniel%20Scott%20(1).png)
 <h1 align="center">Hi 👋, I'm Sohaib Mahmood</h1>
-<h1 align="center">And 👋, People know me as a Daniel Scott</h1>
+<h1 align="center">And 👋, People know me as Daniel Scott</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1713241326~exp=1713244926~hmac=4a28d82a4852f937f88b526a8d871f7f8df668944d251f2ea98dd07c0d5cceb4&w=740" width="400" alt="Coding GIF">
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **m.danielscottofficial@gmail.com**
 
-- ⚡ Fun fact **father of ai 😁**
+- ⚡ Fun fact **I am a Singer😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
