@@ -2,7 +2,7 @@
 # ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀💫 About Me
 - ✨ A passionate frontend developer from Pakistan 🇵🇰. Currently Developing cool websites. Code wizard by day, problem solver by night. Constantly pushing the limits of technology and always looking for new challenges. Driven by passion and driven to make a difference. Let's create something amazing together. 💻🚀
 - 
-- 🔭 I’m currently working on Personal Portfoil
+- 🔭 I’m currently working on Personal Portfolio
 - 👯 I’m looking to collaborate on Cool webiste
 - 🌱 I’m currently learning advance JavaScript, React
 - ⚡ Fun fact : I am A singer 😎 
@@ -31,9 +31,8 @@
     <img src="https://img.shields.io/badge/-HTML-blue?style=flat-square&logo=HTML" alt="HTML5">
       <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" alt="CSS3">
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
-    <img src="h	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=whitettps://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="tailwind-css">
-    <img src="[h	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=whitettps://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-)" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/tailwind-css?style=flat-square&logo=tailwind-css" alt="tailwind-css">
+    <img src="https://img.shields.io/badge/Bootstrap?style=flat-square&logo=Bootstrap" alt="Bootstrap">
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
     </div>
