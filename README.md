@@ -55,6 +55,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-![Visitor Count](https://profile-counter.glitch.me/chethanyadav456/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/mdanielscottofficial/count.svg)
 
 <img src="https://github.com/chethanyadav456/chethanyadav456/assets/46392684/56bc1e91-4b24-4ed9-ba3e-77f08f1af9d8">
