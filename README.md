@@ -2,10 +2,10 @@
 # ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀💫 About Me
 - ✨ A passionate frontend developer from Pakistan 🇵🇰. Currently Developing cool websites. Code wizard by day, problem solver by night. Constantly pushing the limits of technology and always looking for new challenges. Driven by passion and driven to make a difference. Let's create something amazing together. 💻🚀
 - 
-- 🔭 I’m currently working on Personal Portfolio
-- 👯 I’m looking to collaborate on Cool webiste
-- 🌱 I’m currently learning advance JavaScript, React
-- ⚡ Fun fact : I am A singer 😎 
+- 🔭 I’m currently working on: <b>Personal Portfolio</b>
+- 👯 I’m looking to collaborate on: <b>Cool webiste</b>
+- 🌱 I’m currently learning: <b>advance JavaScript, React </b>
+- ⚡ Fun fact : <b>I am A singer 😎</b> 
 
 <br/>
 <h1 align="center">🌐 Socials</h1>
@@ -20,7 +20,7 @@
     <a href="https://twitter.com/Mdanielscott" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter link">
     </a>
-    <a href="[https://youtube.com/c/UCcPqBRJ_8Zqa8x6qRreXBgw](https://www.youtube.com/channel/UCm0prl6osaUSn2ooB33W3dA)" target="_blank">
+    <a href="https://www.youtube.com/channel/UCm0prl6osaUSn2ooB33W3dA" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube link">
     </a>
 </div>
@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" alt="CSS3">
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
     <img src="https://img.shields.io/badge/tailwind-css?style=flat-square&logo=tailwind-css" alt="tailwind-css">
-    <img src="https://img.shields.io/badge/Bootstrap?style=flat-square&logo=Bootstrap" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/bootstrap?style=flat-square&logo=bootstrap" alt="Bootstrap">
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
     </div>
