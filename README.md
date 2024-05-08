@@ -3,7 +3,7 @@
 - ✨ A passionate frontend developer from Pakistan 🇵🇰. Currently Developing cool websites. Code wizard by day, problem solver by night. Constantly pushing the limits of technology and always looking for new challenges. Driven by passion and driven to make a difference. Let's create something amazing together. 💻🚀
 - 
 - 🔭 I’m currently working on: <b>Personal Portfolio</b>
-- 👯 I’m looking to collaborate on: <b>Cool website</b>
+- 👯 I’m looking to collaborate on: <b>Cool looking website</b>
 - 🌱 I’m currently learning: <b>advance JavaScript, React </b>
 - ⚡ Fun fact : <b>I am A singer 😎</b> 
 
