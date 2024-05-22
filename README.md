@@ -28,11 +28,9 @@
 
 <h1 align="center">💻 Tech Stack</h1>
 <div align="center">
-    <img src="https://img.shields.io/badge/-HTML-blue?style=flat-square&logo=HTML" alt="HTML5">
-      <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" alt="CSS3">
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
-    <img src="https://img.shields.io/badge/tailwind-css?style=flat-square&logo=tailwind-css" alt="tailwind-css">
-    <img src="https://img.shields.io/badge/bootstrap?style=flat-square&logo=bootstrap" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" alt="CSS3">
+    <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML" alt="HTML">
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
     </div>
