@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
     <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" alt="CSS3">
-    <img src="https://img.shields.io/badge/-html-FF5733?style=flat-square&logo=HTML" alt="HTML">
+    <img src="https://img.shields.io/badge/-HTML-FF5733?style=flat-square&logo=HTML" alt="HTML">
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
     </div>
