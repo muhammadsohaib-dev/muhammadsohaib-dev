@@ -14,7 +14,7 @@
     <a href="[htttps://discord.gg/YVn6nUycHU](https://www.instagram.com/mrdanielscottofficial/)" target="_blank"> 
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram link">
     </a>
-    <a href="https://www.linkedin.com/in/danielscottofficial/" target="_blank">
+    <a href="https://www.linkedin.com/in/iammuhammadsohaib/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn link">
     </a>
     <a href="https://twitter.com/Mdanielscott" target="_blank">
